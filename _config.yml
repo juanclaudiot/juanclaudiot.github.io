@@ -4,7 +4,7 @@
 title: QAntificando
 
 # Short description of your site
-description: QA y demases
+description: Blog sobre QA manual y Automatizado. 
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -69,11 +69,11 @@ author:
 social-network-links:
   rss: true
   email: "juanclaudio.tolosa@gmail.com"
-  facebook: 
+ # facebook: 
   github: juanclaudiot
-  twitter: 
-#  reddit: yourname
-#  linkedin: daattali
+#  twitter: 
+#  reddit: your name
+linkedin: juanclaudio-tolosa
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
