@@ -1,7 +1,10 @@
 ---
 layout: post
-title: First post!
+title: Primer post!
 image: /img/hello_world.jpeg
+published: true
+date: '2019-06-01'
+subtitle: Subtitulo
 ---
 
-This is my first post, how exciting!
+Primer post, test 
