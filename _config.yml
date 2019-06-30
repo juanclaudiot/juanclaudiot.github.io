@@ -20,7 +20,7 @@ description: Blog sobre QA manual y Automatizado.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "sobre mi"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
