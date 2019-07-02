@@ -8,4 +8,6 @@ subtitle: Bienvenidos!
 ---
 
 Este blog esta pensado para compartir mis conocimientos adquiridos con el tiempo y para aprender nuevas tecnologias, espero disfruten!
-Un abrazo ;)
+Un abrazo ;). 
+
+
