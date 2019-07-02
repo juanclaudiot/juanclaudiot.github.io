@@ -2,8 +2,10 @@
 layout: post
 title: Diferencia entre Smoke test y Sanity Test
 image: 
-published: false
-date: '2019-06-003'
+published: true 
+date: '2019-06-03'
 subtitle: 
 ---
 
+Hace poco tiempo que no sabía la diferencia 
+entre Smoke test y Sanity Test. 
